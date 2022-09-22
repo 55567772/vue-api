@@ -1,6 +1,6 @@
 # vue-api
 
-This template should help get you started developing with Vue 3 in Vite.
+根据个人爱好所完成API项目，其中包括诗词，文案，高清、无损音乐API等，可下载可收听，纯属个人学习项目。
 
 ## Recommended IDE Setup
 
@@ -10,7 +10,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## 项目安装及启用方法
 
 ```sh
 npm install
